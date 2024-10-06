@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranjalchirkute
-- 🌱 I’m currently learning python.
+
 
 
 <!---
